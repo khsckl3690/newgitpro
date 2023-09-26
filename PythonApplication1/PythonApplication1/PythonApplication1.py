@@ -22,5 +22,5 @@ print(f"K's age is {K.age}, and K's job is {K.job}")
 print(f"K's birthday is {K.birthday[0]}.{K.birthday[1]}")
 K.app(K)
 print(K.p)
-#함수 표시 bracket 꼭 해주자!!
+#When there is a function, bracket necessarily!!
 K.t()
